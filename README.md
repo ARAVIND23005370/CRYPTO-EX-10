@@ -55,7 +55,8 @@ int main()
 ~~~
 
 # OUTPUT:
-![alt text](output.png)
+![Screenshot 2024-11-04 093305](https://github.com/user-attachments/assets/bd7522b1-4e09-4ea0-844d-04595bb08845)
+
 
 # RESULT:
 Hence, the simulation of Diffie Hellman algorithm is successfully done.
